@@ -115,7 +115,7 @@ header, .main, footer{
 /* CUADROS */
 						
 .main .articles {
-				width:88.5%;
+				width:68.5%;
 				margin-right:1.5%;
 				float:left;
 				}
@@ -140,6 +140,8 @@ footer {
 		font-size:15px;
 		text-align:center;
        }
+
+aside {width:90%;}
 
 /* TABLAS */
 
