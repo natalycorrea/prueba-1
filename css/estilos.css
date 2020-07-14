@@ -29,7 +29,8 @@ header {
 		}
 		
 header h2 {
-		color:#6A0888;
+		Width:90%;
+                color:#6A0888;
 		clear:both;
 		padding:10px 0px;
 		text-align:center;
@@ -53,7 +54,7 @@ header, .main, footer{
 /*menú */
 
 .navegacion{
-			width:1000px;
+			width:90%;
 			margin:30px auto;
 			background:#FDF2E9;
 			text-align: center;
@@ -115,7 +116,7 @@ header, .main, footer{
 /* CUADROS */
 						
 .main .articles {
-				width:68.5%;
+				width:88.5%;
 				margin-right:1.5%;
 				float:left;
 				}
@@ -140,7 +141,8 @@ aside {
 	  }
 			
 footer {
-		background:black;
+		Width:90%;
+                background:black;
 		color:white;
 		clear:both;
 		padding:10px 0px;
