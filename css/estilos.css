@@ -29,7 +29,6 @@ header {
 		}
 		
 header h2 {
-		Width:90%;
                 color:#6A0888;
 		clear:both;
 		padding:10px 0px;
@@ -89,7 +88,7 @@ header, .main, footer{
 .submenu {
 				background: #FDF2E9;
 				position:absolute;
-				width:150%;
+				width:90%;
 				visibility:hidden;
 				opacity:0;
 				transition:opacity 1.5s;
@@ -131,14 +130,6 @@ div > p {
 		width:90%;
 		max-width:1000px;
 		margin:20px auto}
-
-aside {
-		width:30%;
-		background:;
-		float:left;
-		padding:20px;
-		box-sizing:border-box;
-	  }
 			
 footer {
 		Width:90%;
